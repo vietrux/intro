@@ -19,8 +19,8 @@ Nhìn sang giữa màn hình, chúng ta thấy giao diện của plugin
 - Product Code: Ví dụ: WO99NN20058
 > đây là mã sản phẩm, là mã của sản phầm đang khuyễn mãi mà người dùng muốn hiển thị lên trang
 
-- Product New Price: Ví dụ: 12900000 (12.900.000 VND)
-> đây là giá khuyến mãi của sản phẩm
+- Product Old Price: Ví dụ: 12900000 (12.900.000 VND)
+> đây là giá cũ của sản phẩm
 
 ### Phần 2: Danh sách sản phẩm
 Danh sách sản phầm sẽ được hiển thị theo loại sản phẩm mà người dùng đặt ở phần 1 ( sản phẩm cùng loại sẽ nằm trên cùng 1 bảng)
